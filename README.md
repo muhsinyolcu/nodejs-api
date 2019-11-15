@@ -1,2 +1,2 @@
-# nodejs-api
-Nodejs api with Mongo db
+# NodeJS API
+Here is a simple NodeJS API with mongoDB
